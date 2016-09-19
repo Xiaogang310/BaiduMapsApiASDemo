@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\GitHub\LBS\BaiduMap_AndroidSDK_v4.0.0_Sample\BaiduMapsApiASDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d1af86ff02d3812241c361042cbe0396a7623974">
+        <dex dex="E:\GitHub\LBS\BaiduMap_AndroidSDK_v4.0.0_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8604c784f1eed33ca13b07a935e9140d0f3140bc\classes.dex" />
+    </item>
+
+</items>
